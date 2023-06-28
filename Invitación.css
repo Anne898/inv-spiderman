@@ -270,13 +270,137 @@
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 684px;
+    min-height: 451px;
   }
 
   .u-section-5 .u-countdown-1 {
-    height: 275px;
-    margin-left: 0;
-    margin-right: 0;
+    margin-top: 60px;
+    padding: 8px 0;
+  }
+
+  .u-section-5 .u-countdown-counter-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-separator-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-counter-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-separator-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-counter-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-separator-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-counter-4 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-separator-4 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-counter-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-separator-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-5 .u-countdown-counter-6 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 210px;
+  }
+
+  .u-section-5 .u-countdown-1 {
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+
+  .u-section-5 .u-countdown-counter-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-label-1 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-5 .u-countdown-separator-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-counter-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-label-2 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-5 .u-countdown-separator-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-counter-3 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-label-3 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-5 .u-countdown-separator-3 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-counter-4 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-label-4 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-5 .u-countdown-separator-4 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-counter-5 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-label-5 {
+    font-size: 0.625rem;
+  }
+
+  .u-section-5 .u-countdown-separator-5 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-counter-6 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-5 .u-countdown-label-6 {
+    font-size: 0.625rem;
   }
 } .u-section-6 {
   background-image: url("images/61.gif");
@@ -358,8 +482,14 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 40px;
+  }
+
   .u-section-8 .u-btn-1 {
     font-size: 0.75rem;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 } .u-section-9 {
   background-image: url("images/81.gif");
