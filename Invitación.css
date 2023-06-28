@@ -30,7 +30,7 @@
     min-height: 239px;
   }
 } .u-section-2 {
-  background-image: url("images/31.gif");
+  background-image: url("images/SitioWeblandingpagediseodelicadominimalistaparajoyashechasamanodoradoybeis1.gif");
   background-position: 50% 50%;
 }
 
@@ -61,38 +61,23 @@
     min-height: 239px;
   }
 } .u-section-3 {
-  background-image: url("images/41.gif");
-  background-position: 50% 50%;
+  background-image: url("images/Diseosinttulo1.png");
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 800px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 660px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 506px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 380px;
-  }
+  min-height: 73px;
 }
 
 @media (max-width: 575px) {
+   .u-section-3 {
+    background-position: 50% 50%;
+  }
+
   .u-section-3 .u-sheet-1 {
-    min-height: 239px;
+    min-height: 40px;
   }
 } .u-section-4 {
-  background-image: url("images/51.gif");
+  background-image: url("images/41.gif");
   background-position: 50% 50%;
 }
 
@@ -122,285 +107,36 @@
   .u-section-4 .u-sheet-1 {
     min-height: 239px;
   }
-}.u-section-5 .u-sheet-1 {
-  min-height: 628px;
+} .u-section-5 {
+  background-image: url("images/51.gif");
+  background-position: 50% 50%;
 }
 
-.u-section-5 .u-countdown-1 {
-  margin: 243px auto 60px;
+.u-section-5 .u-sheet-1 {
+  min-height: 800px;
 }
 
-.u-section-5 .u-countdown-item-1 {
-  background-image: none;
-  padding: 15px 20px;
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 660px;
+  }
 }
 
-.u-section-5 .u-countdown-counter-1 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-label-1 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-separator-1 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-item-2 {
-  background-image: none;
-  padding: 15px 20px;
-}
-
-.u-section-5 .u-countdown-counter-2 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-label-2 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-separator-2 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-item-3 {
-  background-image: none;
-  padding: 15px 20px;
-}
-
-.u-section-5 .u-countdown-counter-3 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-label-3 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-separator-3 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-item-4 {
-  background-image: none;
-  padding: 15px 20px;
-}
-
-.u-section-5 .u-countdown-counter-4 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-label-4 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-separator-4 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-item-5 {
-  background-image: none;
-  padding: 15px 20px;
-}
-
-.u-section-5 .u-countdown-counter-5 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-label-5 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-separator-5 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-item-6 {
-  background-image: none;
-  padding: 15px 20px;
-}
-
-.u-section-5 .u-countdown-counter-6 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 700;
-}
-
-.u-section-5 .u-countdown-label-6 {
-  font-size: 1rem;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 506px;
+  }
 }
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 451px;
-  }
-
-  .u-section-5 .u-countdown-1 {
-    margin-top: 60px;
-    padding: 8px 0;
-  }
-
-  .u-section-5 .u-countdown-counter-1 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-separator-1 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-counter-2 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-separator-2 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-counter-3 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-separator-3 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-counter-4 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-separator-4 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-counter-5 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-separator-5 {
-    font-size: 3rem;
-  }
-
-  .u-section-5 .u-countdown-counter-6 {
-    font-size: 3rem;
+    min-height: 380px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 210px;
-  }
-
-  .u-section-5 .u-countdown-1 {
-    margin-left: -10px;
-    margin-right: -10px;
-    padding-top: 6px;
-    padding-bottom: 6px;
-  }
-
-  .u-section-5 .u-countdown-counter-1 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-label-1 {
-    font-size: 0.625rem;
-  }
-
-  .u-section-5 .u-countdown-separator-1 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-counter-2 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-label-2 {
-    font-size: 0.625rem;
-  }
-
-  .u-section-5 .u-countdown-separator-2 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-counter-3 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-label-3 {
-    font-size: 0.625rem;
-  }
-
-  .u-section-5 .u-countdown-separator-3 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-counter-4 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-label-4 {
-    font-size: 0.625rem;
-  }
-
-  .u-section-5 .u-countdown-separator-4 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-counter-5 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-label-5 {
-    font-size: 0.625rem;
-  }
-
-  .u-section-5 .u-countdown-separator-5 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-counter-6 {
-    font-size: 1.125rem;
-  }
-
-  .u-section-5 .u-countdown-label-6 {
-    font-size: 0.625rem;
+    min-height: 239px;
   }
 } .u-section-6 {
   background-image: url("images/61.gif");
@@ -434,62 +170,342 @@
     min-height: 239px;
   }
 } .u-section-7 {
-  background-image: url("images/SitioWeblandingpagediseodelicadominimalistaparajoyashechasamanodoradoybeis1.png");
-  background-position: 50% 50%;
+  background-image: url("images/11.gif");
 }
 
 .u-section-7 .u-sheet-1 {
+  min-height: 628px;
+}
+
+.u-section-7 .u-countdown-1 {
+  margin: 243px auto 60px;
+}
+
+.u-section-7 .u-countdown-item-1 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-7 .u-countdown-counter-1 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-label-1 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-7 .u-countdown-separator-1 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-item-2 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-7 .u-countdown-counter-2 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-label-2 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-7 .u-countdown-separator-2 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-item-3 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-7 .u-countdown-counter-3 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-label-3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-7 .u-countdown-separator-3 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-item-4 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-7 .u-countdown-counter-4 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-label-4 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-7 .u-countdown-separator-4 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-item-5 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-7 .u-countdown-counter-5 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-label-5 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+.u-section-7 .u-countdown-separator-5 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-item-6 {
+  background-image: none;
+  padding: 15px 20px;
+}
+
+.u-section-7 .u-countdown-counter-6 {
+  font-size: 4.5rem;
+  line-height: 1;
+  font-weight: 700;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+}
+
+.u-section-7 .u-countdown-label-6 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 451px;
+  }
+
+  .u-section-7 .u-countdown-1 {
+    margin-top: 60px;
+    padding: 8px 0;
+  }
+
+  .u-section-7 .u-countdown-counter-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-separator-1 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-counter-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-separator-2 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-counter-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-separator-3 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-counter-4 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-separator-4 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-counter-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-separator-5 {
+    font-size: 3rem;
+  }
+
+  .u-section-7 .u-countdown-counter-6 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-7 {
+    background-position: 50% 100%;
+  }
+
+  .u-section-7 .u-sheet-1 {
+    min-height: 210px;
+  }
+
+  .u-section-7 .u-countdown-1 {
+    padding-top: 6px;
+    padding-bottom: 6px;
+  }
+
+  .u-section-7 .u-countdown-counter-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-label-1 {
+    font-size: 0.625rem;
+    letter-spacing: 0px;
+  }
+
+  .u-section-7 .u-countdown-separator-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-counter-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-label-2 {
+    font-size: 0.625rem;
+    letter-spacing: 0px;
+  }
+
+  .u-section-7 .u-countdown-separator-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-counter-3 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-label-3 {
+    font-size: 0.625rem;
+    letter-spacing: 0px;
+  }
+
+  .u-section-7 .u-countdown-separator-3 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-counter-4 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-label-4 {
+    font-size: 0.625rem;
+    letter-spacing: 0px;
+  }
+
+  .u-section-7 .u-countdown-separator-4 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-counter-5 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-label-5 {
+    font-size: 0.625rem;
+    letter-spacing: 0px;
+  }
+
+  .u-section-7 .u-countdown-separator-5 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-counter-6 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-7 .u-countdown-label-6 {
+    font-size: 0.625rem;
+    letter-spacing: 0px;
+  }
+} .u-section-8 {
+  background-image: url("images/SitioWeblandingpagediseodelicadominimalistaparajoyashechasamanodoradoybeis2.png");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-sheet-1 {
   min-height: 800px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-7 .u-sheet-1 {
+  .u-section-8 .u-sheet-1 {
     min-height: 660px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-7 .u-sheet-1 {
+  .u-section-8 .u-sheet-1 {
     min-height: 506px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-7 .u-sheet-1 {
+  .u-section-8 .u-sheet-1 {
     min-height: 380px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-7 .u-sheet-1 {
-    min-height: 239px;
+   .u-section-8 {
+    background-position: 50% 100%;
   }
-}.u-section-8 .u-sheet-1 {
-  min-height: 73px;
-}
 
-.u-section-8 .u-btn-1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 1.875rem;
-  letter-spacing: 1px;
-  background-image: none;
-  margin: 1px auto;
-}
-
-.u-section-8 .u-icon-1 {
-  margin-top: 4px;
-}
-
-@media (max-width: 575px) {
   .u-section-8 .u-sheet-1 {
-    min-height: 40px;
-  }
-
-  .u-section-8 .u-btn-1 {
-    font-size: 0.75rem;
-    margin-top: 0;
-    margin-bottom: 0;
+    min-height: 239px;
   }
 } .u-section-9 {
   background-image: url("images/81.gif");
@@ -554,65 +570,116 @@
     min-height: 239px;
   }
 } .u-section-11 {
+  background-image: url("images/Diseosinttulo1.png");
+}
+
+.u-section-11 .u-sheet-1 {
+  min-height: 73px;
+}
+
+.u-section-11 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 1px auto;
+}
+
+.u-section-11 .u-icon-1 {
+  margin-top: 4px;
+}
+
+@media (max-width: 575px) {
+   .u-section-11 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-11 .u-sheet-1 {
+    min-height: 40px;
+  }
+
+  .u-section-11 .u-btn-1 {
+    font-size: 0.75rem;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+} .u-section-12 {
+  background-image: url("images/Diseosinttulo1.png");
+}
+
+.u-section-12 .u-sheet-1 {
+  min-height: 73px;
+}
+
+@media (max-width: 575px) {
+   .u-section-12 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-12 .u-sheet-1 {
+    min-height: 40px;
+  }
+} .u-section-13 {
   background-image: url("images/101.gif");
   background-position: 50% 50%;
 }
 
-.u-section-11 .u-sheet-1 {
+.u-section-13 .u-sheet-1 {
   min-height: 800px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 660px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 506px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 380px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-11 .u-sheet-1 {
+  .u-section-13 .u-sheet-1 {
     min-height: 239px;
   }
-} .u-section-12 {
+} .u-section-14 {
   background-image: url("images/111.gif");
   background-position: 50% 50%;
 }
 
-.u-section-12 .u-sheet-1 {
+.u-section-14 .u-sheet-1 {
   min-height: 800px;
 }
 
 @media (max-width: 1199px) {
-  .u-section-12 .u-sheet-1 {
+  .u-section-14 .u-sheet-1 {
     min-height: 660px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-12 .u-sheet-1 {
+  .u-section-14 .u-sheet-1 {
     min-height: 506px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-12 .u-sheet-1 {
+  .u-section-14 .u-sheet-1 {
     min-height: 380px;
   }
 }
 
 @media (max-width: 575px) {
-  .u-section-12 .u-sheet-1 {
+  .u-section-14 .u-sheet-1 {
     min-height: 239px;
   }
 }position: fixed;
